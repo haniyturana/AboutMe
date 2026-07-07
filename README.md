@@ -1,95 +1,187 @@
 # Hey there, I'm Haniy! 👋
 
-### Applied Data Science | Analytics Engineering | MSc Data Science Candidate @ UKM
+### Analytics Engineer | Applied Data Science | MSc Data Science & Analytics Candidate @ UKM
 📍 **Selangor, Malaysia**
 
-> "Combining business domain expertise with machine learning and data engineering to build practical data-driven solutions."
+> "Combining business domain expertise with data engineering and machine learning to build practical, data-driven solutions."
 
 ---
 
-### 🚀 Focus Areas
+## 🚀 Focus & Growth
 
-| 🤖 Machine Learning | ⚙️ Data Engineering | 📊 Business Analytics |
+| 🤖 Machine Learning | ⚙️ Data Engineering | 📊 Business Intelligence |
 | :--- | :--- | :--- |
-| Building predictive models using Python, XGBoost, LightGBM, and time-series forecasting techniques. | Developing automated data workflows, transformation pipelines, and analytical tools using Python & SQL. | Applying data insights to improve operational efficiency, profitability, and decision-making. |
+| Developing predictive models using Python for forecasting, classification, and optimization problems. | Building automated data workflows, transformation pipelines, and analytical solutions using Python & SQL. | Translating business challenges into actionable insights through analytics, visualization, and modeling. |
 
 ---
 
-### 🛠️ Technical Toolkit
+# 🛠️ Technical Toolkit
 
-**Programming & Data**
+## 💻 Programming & Data Processing
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Machine Learning & Analytics**
-- Machine Learning: XGBoost, LightGBM, Prophet, Scikit-learn
-- Deep Learning: PyTorch (exploration)
-- Data Processing: Pandas, Polars
-- Statistical Modeling & Forecasting
+- Python: Pandas, Polars, Scikit-learn
+- SQL: Data extraction, transformation, analytical queries
+- R: Statistical analysis and forecasting
+- Data cleaning, feature engineering, and exploratory analysis
 
-**Data Engineering & Platforms**
-- ETL Pipeline Development
-- Apache Spark, Hadoop, Hive
+---
+
+## 🤖 Machine Learning & Artificial Intelligence
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+
+- Machine Learning:
+  - XGBoost
+  - LightGBM
+  - Scikit-learn
+  - Prophet
+- Deep Learning exploration using PyTorch
+- Predictive modeling
+- Classification
+- Time-series forecasting
+- Model evaluation and optimization
+
+---
+
+## ⚙️ Big Data & Data Engineering
+
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
+
+- Hadoop Distributed File System (HDFS)
+- Apache Spark for distributed data processing
+- Hive for SQL-based big data analytics
+- ETL pipeline development concepts
+- Data transformation workflows
+- Large-scale dataset processing
+
+---
+
+## 🏗️ Infrastructure & Database
+
+![Ambari](https://img.shields.io/badge/Ambari-2692D9?style=flat&logo=apache&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+
+- Hadoop cluster management using Apache Ambari (HDP)
 - Oracle Database
-- Linux Environment, SSH, Virtualized Clusters
+- Linux environment
+- Virtualized cluster setup using VirtualBox
+- Remote server management using SSH / PuTTY
 
-**Visualization & Applications**
+---
+
+## 📊 Analytics & Application Development
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-000000?style=for-the-badge&logo=r&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+- Interactive analytical applications
+- Dashboard development
+- Business reporting automation
+- Data visualization
+
 ---
 
-### 💼 Professional Experience
+# 💼 Professional Journey
 
-### Assistant Manager @ MR DIY
+## Assistant Manager @ MR DIY
 **Nov 2019 – Present**
 
-- Managing sales performance and profitability analysis through structured reporting and database management.
-- Automated reporting workflows using Python, reducing manual data processing effort by **90%**.
-- Built forecasting models using **XGBoost and Prophet** to support demand planning and inventory optimization.
-- Developed analytical solutions for margin tracking, stock gap identification, and performance monitoring.
+- Managing sales performance, profitability tracking, and operational reporting through structured data analysis.
+- Automated reporting and data processing workflows using Python, reducing manual workload by approximately **90%**.
+- Developed demand forecasting models using **XGBoost and Prophet** to support inventory planning and sales projection.
+- Built analytical solutions for:
+  - Margin monitoring
+  - Stock gap identification
+  - Sales performance analysis
+  - Profitability simulation and scenario analysis
 - Maintained **99% data and stock accuracy** for operational reporting and audit requirements.
+- Bridged business requirements with analytical solutions by translating operational challenges into data models.
 
-### Customer Insights Analyst @ Ematic Solutions
+---
+
+## Customer Insights Analyst @ Ematic Solutions
 **Aug 2017 – Sep 2019**
 
-- Performed customer segmentation and behavioral analysis to optimize marketing performance.
+- Performed customer segmentation and behavioral analysis to support marketing optimization.
+- Analyzed customer data to identify trends and improve campaign performance.
 
 ---
 
-### 📊 Featured Projects
+# 📊 Featured Projects
+
+## 💰 Financial & Customer Intelligence
 
 <details>
-<summary><b>💰 Financial & Customer Intelligence</b></summary>
+<summary><b>Customer Default Prediction</b></summary>
 
-- **Customer Default Prediction:** Built classification models to analyze credit risk patterns and customer behavior.
-- **UCI Adult Census Income Prediction:** Applied machine learning techniques to identify socioeconomic factors influencing income classification.
+- Developed machine learning models to analyze customer behavior and identify credit risk patterns.
+- Applied feature engineering, classification modeling, and evaluation techniques.
 
 </details>
 
 <details>
-<summary><b>📈 Predictive Analytics & Forecasting</b></summary>
+<summary><b>UCI Adult Census Income Prediction</b></summary>
 
-- **Sales Forecasting:** Developed forecasting models using LightGBM and time-series approaches.
-- **Walmart Weekly Sales Forecasting:** Applied statistical forecasting techniques using R.
-- **Titanic Association Rules:** Explored pattern discovery and relationship mining.
+- Applied machine learning techniques to analyze socioeconomic factors affecting income classification.
+- Explored data preprocessing, modeling, and performance evaluation.
+
+</details>
+
+
+---
+
+## 📈 Predictive Analytics & Forecasting
+
+<details>
+<summary><b>Sales Forecasting Models</b></summary>
+
+- Developed forecasting solutions using:
+  - LightGBM
+  - XGBoost
+  - Time-series approaches
+
+- Applied forecasting techniques for demand prediction and business planning.
+
+</details>
+
+<details>
+<summary><b>Walmart Weekly Sales Forecasting</b></summary>
+
+- Performed time-series analysis and forecasting using R.
+- Evaluated sales patterns and forecasting accuracy.
+
+</details>
+
+
+<details>
+<summary><b>Titanic Association Rules Analysis</b></summary>
+
+- Applied association rule mining to discover relationships between passenger attributes and survival outcomes.
 
 </details>
 
 ---
 
-### 🎓 Education
+# 🎓 Education
 
-**MSc Data Science & Analytics**  
-Universiti Kebangsaan Malaysia (Expected 2026)
+### MSc Data Science & Analytics
+**Universiti Kebangsaan Malaysia (UKM)**  
+Expected 2026
 
-**BSc Industrial Statistics**  
-Universiti Utara Malaysia (2017)
+### BSc Industrial Statistics
+**Universiti Utara Malaysia (UUM)**  
+2017
 
 ---
 
-### 📫 Connect with me
+# 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haniy-turana-hamthan-037b8912b/)
